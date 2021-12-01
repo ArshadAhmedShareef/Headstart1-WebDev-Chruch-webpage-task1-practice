@@ -69,7 +69,7 @@
   text-align: center;
 }
 .container {
-  min-height: calc(100vh-58px-12vh);
+  min-height: calc(100vh-58px-10vh);
 }
 footer {
   position: relative;
